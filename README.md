@@ -1,2 +1,2 @@
 # hangman
-simple hangman wrotten by c++
+simple hangman wrtten by c++
