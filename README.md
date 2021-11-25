@@ -1,2 +1,2 @@
 # hangman
-simple hangman wrtten by c++
+a simple hangman game
